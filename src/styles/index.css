@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Sono:wght@300;400;600;800&display=swap');
+:root {
+    --bg: #253369;
+    --black1: #000000;
+    --white1: #f5f5f5;
+    --color1: #132469;   
+    --color2: #041c7c;
+    --menu: #F16767;  
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Sono', sans-serif;
+}
+
+.letter_dancing {
+    font-family: 'Dancing Script', cursive;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+button {
+    border: none;
+}
+
+input {
+    outline: none;
+}
+
+ul {
+    list-style: none;
+}
